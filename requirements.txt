@@ -1,0 +1,8 @@
+# torch==2.10.0
+transformers
+llms-from-scratch
+reasoning-from-scratch
+numpy
+datasets
+pandas
+matplotlib
